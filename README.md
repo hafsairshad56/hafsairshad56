@@ -19,15 +19,6 @@ Analytical Computer Science graduate eager to leverage Python, SQL, and Excel to
 
 ## 💼 Professional Experience  
 
-### 📊 Problem Solving Specialist — Abacus  
-*Present*  
-
-- Handling operational and analytical problem resolution  
-- Supporting process improvement through structured analysis  
-- Working with performance data and reporting workflows  
-
----
-
 ### 📊 Data Analyst Intern — Punjab Information Technology Board (PITB)  
 Arfa Software Technology Park – Lahore  
 *May 2025 – June 2025*  
